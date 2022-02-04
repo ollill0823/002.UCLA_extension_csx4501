@@ -1,21 +1,18 @@
-# Project description:
-After new statistical methods have launched in the baseball areas, experts start to focus on how they can improve the quality of their players' performance. **Rotating spin**, one of the most incoming new data has come to people, giving audiences a lot of questions about why it is pivotal to pitchers. I am interested in what is the correlation with. So, my research question will be defined as ___How does rotate spin affect pitcher’s pitching quality?___ 
+### csx4501
+## Introduction to Data Science
 
+Hello again :)
 
+### About me
+This is *Tharini*, who already had a github account and doesn't remember having one at all. I must have created it during my undergraduate coding days. I like to design as well,
+if you're interested, take a look at my [design portfolio here](https://tharini.myportfolio.com/).
 
-# Contect
-It is definitely important to me. It allows me to learn how to recognize the quality of a variety of pitching balls. Besides, each pitcher is eager to improve their quality of pitching. Some pitchers adopt pine tar, an illegal material, which now has already been inhibited to use for pitchers, is considered to assist pitchers in increasing their rotating spin. Except that, some MLB teams were rumored that they can help pitchers improve their pitching quality. Hence, if I can deep into the area to understand more information, I will have a comprehensive understanding of this area.
+### Project ideas
+My initial thoughts about my data science project was to work on the causes that I care about. I wanted to work on data involving sustainable living or climate change but I'm assuming I need knowledge about GIS, Atmospheric sciences, etc which I presently do not posess.
 
-I will use some methods that can me navigate this topic:
+###  Data science project objective
+So I'm going to start small based on my current needs. I would like my first data science project to be something like a **habit tracker** or a **bullet journal**. Instead of focusing on productivity my project will strive for accountability. 
 
-### 1.Resources:
-[Baseball savant](https://baseballsavant.mlb.com/visuals)
+###  Working on datasets
+I'm pursuing interior design education as well, it might be in my best interests to work on data sets related to real estate, architecture and interior design. I will be updating this project space along the course, feel free to suggest any ideas.
 
-### 2. mid-goals:
-**(2~3 weeks)** Enable to regularly output some graph imitating from baseball savant, figure out how to familiar with drawing a motive curve.
-   
-### 3. long-term goals:
-**(~3 weeks)** collecting information and finding more ideas to present my point of view. creating a curve to enhance it.
-
-### 4. insights:
-After completing the course, I need to learn how to make an idea into reality. I need to ensure I can complete my unique research through my learning, creating a picture that I can find from the website, then I create my unique research outcome.
