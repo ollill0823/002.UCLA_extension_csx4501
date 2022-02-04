@@ -1,4 +1,5 @@
-# csx4501
-UCLA extension school homework and practice 
+# UCLAX-22W-CSX4501
 
-I am ***Chen Wang***. If you have any questions want to ask me, please send an email to '**ppwang88223@gmail.com**' , thank you.
+This repository is maintained by Ben Winjum for Introduction to Data Science COM SCI X 450.1, UCLA Extension Winter 2022. 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benjum/UCLAX-22W-CSX4501/HEAD)
