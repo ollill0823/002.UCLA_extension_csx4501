@@ -1,5 +1,7 @@
-# UCLAX-22W-CSX4501
+# GitHub workflows
 
-This repository is maintained by Ben Winjum for Introduction to Data Science COM SCI X 450.1, UCLA Extension Winter 2022. 
+Here you will find different notes on using git for this course.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benjum/UCLAX-22W-CSX4501/HEAD)
+Special acknowledgements go to Yoh Kawano (my fellow OARC data scientist and GIS expert) for these materials.
+
+
