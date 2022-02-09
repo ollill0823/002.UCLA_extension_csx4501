@@ -1,18 +1,26 @@
-### csx4501
-## Introduction to Data Science
+# CSX4501
 
-Hello again :)
 
-### About me
-This is *Tharini*, who already had a github account and doesn't remember having one at all. I must have created it during my undergraduate coding days. I like to design as well,
-if you're interested, take a look at my [design portfolio here](https://tharini.myportfolio.com/).
+Hi, everyone.
 
-### Project ideas
-My initial thoughts about my data science project was to work on the causes that I care about. I wanted to work on data involving sustainable living or climate change but I'm assuming I need knowledge about GIS, Atmospheric sciences, etc which I presently do not posess.
+I am here to study data science with you and I am welcome to provide any help, if you have any questions, please do not hesitate to ask me, thank you. 
 
-###  Data science project objective
-So I'm going to start small based on my current needs. I would like my first data science project to be something like a **habit tracker** or a **bullet journal**. Instead of focusing on productivity my project will strive for accountability. 
 
-###  Working on datasets
-I'm pursuing interior design education as well, it might be in my best interests to work on data sets related to real estate, architecture and interior design. I will be updating this project space along the course, feel free to suggest any ideas.
+## Autobiography:
+This is **Chen Wang**, came from Taiwan and was a semiconductor engineer in TSMC. I decide to change my area to data science, and I hope it can develop me and guide me to achieve success in the USA.
 
+
+## courses insight:
+
+* ***Learn basic statistics:*** I should be proficient in any statistics related, including basic statistics methods ( my previous job used linear regression to built-up my model, but I want more
+* ***Python programming fundamental:*** it's a long way to go. But to be or not to be, depends on my mindset.
+* ***Data visualization:*** execute model from excel to Jupyter or python.
+* ***Setup my investigation background in the sports area:*** The final project I need to consider is if I can process my sports research.
+
+
+
+## Related to me:
+
+- Gmail ppwang8823@gmail.com
+- [FB]( https://www.facebook.com/ppwang.ollill)
+- [IG]( https://www.instagram.com/ppwangollill/)
